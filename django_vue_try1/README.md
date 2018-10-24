@@ -19,6 +19,7 @@ npm run build
 
 ## To run
 
+''' bash
 python manage.py runserver 3001
-
+'''
 For detailed explanation on how things work, consult the [docs for vue-loader](http://vuejs.github.io/vue-loader).
